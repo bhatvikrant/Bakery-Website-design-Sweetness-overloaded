@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Croissant",
+        "price": 150,
+        "image": { "fields": { "file": { "url": "./images/p1.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Éclair",
+        "price": 175,
+        "image": { "fields": { "file": { "url": "./images/p2.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Opera Cake",
+        "price": 250,
+        "image": { "fields": { "file": { "url": "./images/p3.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Macarons",
+        "price": 75,
+        "image": { "fields": { "file": { "url": "./images/p4.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Mille-Feuille",
+        "price": 300,
+        "image": { "fields": { "file": { "url": "./images/p5.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Religieuse",
+        "price": 115,
+        "image": { "fields": { "file": { "url": "./images/p6.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Paris-Brest",
+        "price": 450,
+        "image": { "fields": { "file": { "url": "./images/p7.jfif" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Tarte Tatin",
+        "price": 325,
+        "image": { "fields": { "file": { "url": "./images/p8.jfif" } } }
+      }
+    }
+  ]
+}
